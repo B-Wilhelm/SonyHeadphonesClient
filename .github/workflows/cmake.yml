@@ -1,4 +1,4 @@
-name: Linux & Windows
+name: Windows
 
 on:
   push:
